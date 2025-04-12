@@ -6,6 +6,6 @@
 - Interests: Computer Graphics, Computer Vision
 - Programming Languages: C/C++, Python
 
-## Stats
+## stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandersep&theme=gruvbox&show_icons=true)
