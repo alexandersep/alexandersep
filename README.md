@@ -1,10 +1,10 @@
 ## about_me
 
 - Studying: MCS @ Trinity College Dublin 
-- Email: sepelenco@gmail.com
+- Email: sepelenco@gmail.com or sepelena@tcd.ie
 - Pronouns: he/him
-- Interests: Computer Graphics, Computer Vision
-- Programming Languages: C/C++, Python
+- Interests: Computer Graphics, Compilers, Computer Vision
+- Programming Languages: C/C++, Python, Java
 
 ## stats
 
