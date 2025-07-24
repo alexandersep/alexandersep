@@ -1,10 +1,13 @@
 ## about_me
 
-- Studying: MCS @ Trinity College Dublin 
-- Email: sepelenco@gmail.com or sepelena@tcd.ie
-- Pronouns: he/him
-- Interests: Computer Graphics, Compilers, Computer Vision
+- Education: B.A. (Moderatorship) Honours in Computer Science and a M.C.S in Computer Science
+- Working: AI Framework Engineer @ Intel 
+- Email: sepelenco@gmail.com
+- Pronouns: he/him/ona
+- Technical Interests: Computer Graphics, Compilers, Computer Vision
+- Hobby Interest: Toki Pona, Bouldering, Mathematics
 - Programming Languages: C/C++, Python, Java
+- Hobby Interest: Toki Pona, Mathematics
 
 ## stats
 
