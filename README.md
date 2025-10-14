@@ -6,8 +6,7 @@
 - Pronouns: he/him/ona
 - Technical Interests: Computer Graphics, Compilers, Computer Vision
 - Hobby Interest: Toki Pona, Bouldering, Mathematics
-- Programming Languages: C/C++, Python, Java
-- Hobby Interest: Toki Pona, Mathematics
+- Programming Languages: C/C++, Python
 
 ## stats
 
