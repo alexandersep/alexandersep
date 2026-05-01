@@ -1,6 +1,6 @@
 ## about_me
 
-- Education: B.A. (Moderatorship) Honours in Computer Science and a M.C.S in Computer Science
+- Education: B.A. (Moderatorship) Honours in Computer Science with First Class Honours, and a M.C.S in Computer Science with Distinction
 - Working: AI Framework Engineer @ Intel 
 - Email: sepelenco@gmail.com
 - Pronouns: he/him/ona
